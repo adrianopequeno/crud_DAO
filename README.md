@@ -1,0 +1,1 @@
+Projeto de CRUD em PHP, usando o método DAO.
